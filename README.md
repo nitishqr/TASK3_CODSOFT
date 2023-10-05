@@ -1,8 +1,8 @@
 # README: Iris Flower Classification
 
-## Author: Hetanshi Acharya
+## Author: Nitish Kumar
 
-## Batch: July
+## Batch: October
 
 ## Domain: Data Science
 
